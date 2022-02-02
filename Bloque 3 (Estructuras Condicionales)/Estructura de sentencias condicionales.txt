@@ -1,0 +1,25 @@
+Sentencia if e if else:
+
+if(condicion){
+	instrucciones 
+}
+else {
+	instrucciones
+}
+
+Sentencia Swich
+
+switch (expresion){
+	case 1:
+		conjunto de instrucciones 1;
+		break;
+	case 2:
+		conjunto de instrucciones 2;
+		break;
+	case n;		
+		conjunto de instrucciones n;
+		break;
+	default:
+		conjunto de instrucciones por defecto;
+		break;
+}

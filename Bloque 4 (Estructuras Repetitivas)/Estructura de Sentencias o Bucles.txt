@@ -1,0 +1,24 @@
+Sentencia While:
+
+	while(expresion logica){
+		conjunto de instrucciones
+	}
+
+Sentencia Do While:
+
+	do{
+		conjunto de instrucciones
+	}
+	while(expresion logica)
+
+Sentencia For:
+	
+	for(expr1; expresion logica; expr2){
+		conjunto de instrucciones;
+	}
+
+	Nota:
+	expr1: mayormente es utilizada para inicializar el iterador dentro del mismo bucle
+	expresion logica: se utiliza para delimitar cuantas veces se va a repetir el bucle 
+	expr2: se usa para aumentar el iterador en el bucle
+
