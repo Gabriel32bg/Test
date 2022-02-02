@@ -1,0 +1,51 @@
+Encabezado para inicio de programas en c++:
+
+#include <iostream>
+
+using namespace std;
+
+int main (){
+
+return 0;
+}
+
+Tipos de variables:
+
+int: numero enteros. 
+float: numeros con "," decimal de tamaño medio.
+double: numeros con "," decimal extensos.
+char: caracteres alfanumericos.
+
+Metodo de entrada de datos:
+
+Luego de definir la el tipo de variable, se debe colocar un mensaje para que el usuario introduzca un valor a la variable:
+
+ejemplo--> cout<<"<\nTexto del mensaje"; 
+
+Para cargar o guardar el valor que el usuario digito colocamos el comando: cin>>nombredelavariable;
+
+Salida o impresion de datos en pantalla:
+
+Para imprimir el valor de una variable en pantalla se utiliza el comando: cout<<"texto" ó cout<<variable, en cualquiera de los casos los
+valores seran impresos en pantalla al ejecutarse el programa.
+
+Comentarios: 
+
+Para realizar un comentario de una sola linea se utiliza: //
+Para realizar un comentario de multiples lineas se debe utilizar el siguiente comando: /*Texto del comentario*/, teniendo en cuenta que 
+para abrir el comentario se utiliza "/*" y para cerrar o finalizarlo seria "*/".
+
+Salto de linea:
+
+"<<endl;" ó "\n"
+
+Librerias de C++:
+
+<iostream>: libreria estandar de c++
+<math.h>: libreria de matematica y trigonometria de c++
+<conio.h>: libreria para evitar que el programa se cierre automáticamente al abrir el ejecutable ".exe"
+<stdlib.h>: libreria cumple la misma funcion que <conio.h>
+<time.h>: libreria para generar numeros aleatorios
+<string.h>: libreria para cadena de caracteres
+
+
