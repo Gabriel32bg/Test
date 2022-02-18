@@ -1,0 +1,1 @@
+Esto es una prueba del ejemplo 1 de archivos o ficheros en c++
