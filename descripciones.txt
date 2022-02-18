@@ -50,3 +50,11 @@ Librerias de C++:
 
 
 #include<fstream> = permite crear, leer o editar ficheros .txt
+(ios::app) => se utiliza para abrir y editar(a adir texto adicional desde consola) los archivos de texto.
+(ios::in) => se utiliza para abrir y dar lectura al contenido del fichero desde la consola de comandos.
+(ios::out) => cumple la funci n de crear o reemplazar una archivo ya existente.
+ofstream => tipo de variable para crear archivos.
+ifstream => tipo de variable para abrir archivos.
+getline(tipo de acci n, nombre de la variable que en la que queremos hacer un cambio o guardar informaci n)
+
+
